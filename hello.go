@@ -99,7 +99,7 @@ func main() {
 
 	//structs
 	fmt.Println("\nstructs")
-	p := pessoa{nome: "Boça", idade: 23}
+	p := pessoa{nome: "Luiz Boça", idade: 32}
 	fmt.Println(p)
 	fmt.Println(p.idade)
 
